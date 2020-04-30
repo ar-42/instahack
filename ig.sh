@@ -21,8 +21,8 @@ red='\e[1;31m'
 cowsay -f eyes "Termux.id" | lolcat
 figlet -f slant "Termux.id" | lolcat
 echo "  <=====================[]====================>" | lolcat
-echo "  <=====[       Tools By AyipBontos       ]=====>" | lolcat
-echo "  <=====[  Concact Me : +6282278198738  ]=====>" | lolcat
+echo "  <=====[       Tools By Cyber Limit       ]=====>" | lolcat
+echo "  <=====[  Concact Me : +1 2342050284 (wa)  ]=====>" | lolcat
 echo "  <=====================[]====================>" | lolcat
 
 sleep 1
