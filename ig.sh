@@ -57,7 +57,7 @@ echo
 echo
 
 ;;
-3) python init.pyc
+3) python init.py
 
 ;;
 
